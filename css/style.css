@@ -1292,6 +1292,7 @@ display:block;
 .deg{
 	text-align:center;
 	display:block;
+	
 	}
 #bottom .widget .widgetheading span, aside .widget .widgetheading span, footer .widget .widgetheading span {
 	position: absolute;

@@ -12,7 +12,7 @@
 <link href="css/fancybox/jquery.fancybox.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet" />
     <!-- favicon-->
-<link rel="icon" type="image/png" sizes="16x16" href="img/iic_logo_s.jpeg">
+<link rel="icon" type="image/png" sizes="16x16" href="img\nisp_core_imgs\NISP Logo.png">
 
 <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 <!--[if lt IE 9]>
@@ -119,7 +119,9 @@
 									<!-- Team Member -->
 									<div class="team-member">
 										<!-- Image -->
-										<img class="img-responsive" src="img/BNC.jpg" alt="">
+										<img class="img-responsive" src="img/BNC.jpg" alt="" width= "300px";
+  height= "300px"
+  object-fit= "cover">
 										<!-- Name -->
 										<h4>Dr. Bhalchandra Chaudhari</h4>
 										<span class="deg">Head of Institute</span>
@@ -132,7 +134,9 @@
 									<!-- Team Member -->
 									<div class="team-member">
 										<!-- Image -->
-										<img class="img-responsive" src="img\team1.jpg" alt="">
+										<img class="img-responsive" src="img\team1.jpg" alt="" width= "300px";
+  height= "300px"
+  object-fit= "cover">
 										<!-- Name -->
 										<h4>NAME</h4>
 										<span class="deg">DESIGNATION</span>
@@ -143,10 +147,12 @@
 									<!-- Team Member -->
 									<div class="team-member">
 										<!-- Image -->
-										<img class="img-responsive" src="img\team1.jpg" alt="">
+										<img class="img-responsive" src="img\team1.jpg" alt="" width= "300px";
+  height= "300px"
+  object-fit= "cover">
 										<!-- Name -->
-										<h4>NAME</h4>
-										<span class="deg">DESIGNATION</span>
+										<h4></h4>
+										<span class="deg">name</span>
 										<span class="deg">NISP SPIT</span>
 									</div>
 								</div>
@@ -154,11 +160,13 @@
 									<!-- Team Member -->
 									<div class="team-member">
 										<!-- Image -->
-										<img class="img-responsive" src="img\team1.jpg" alt="">
+										<img class="img-responsive" src="img\nisp_core_imgs\Darshini Kadme .jpg" alt="" width= "300px";
+  height= "300px"
+  object-fit= "cover">
 										<!-- Name -->
-										<h4>NAME</h4>
-										<span class="deg">DESIGNATION-ordinator</span>
-										<span class="deg">IIC SPIT</span>
+										<h4>Darshini Kadme</h4>
+										<span class="deg">Chairperson</span>
+										<span class="deg">NISP SPIT</span>
 									</div>
 								</div>
 							</div>
@@ -183,10 +191,12 @@
 									<!-- Team Member -->
 									<div class="team-member">
 										<!-- Image -->
-										<img class="img-responsive" src="img\team1.jpg" alt="">
+										<img class="img-responsive" src="img\nisp_core_imgs\Kshiteej Kakirde .jpg" alt="" width= "300px";
+  height= "300px"
+  >
 										<!-- Name -->
-										<h4>NAME</h4>
-										<span class="deg"> DESIGNATION</span>
+										<h4>Kshiteej Kakirde</h4>
+										<span class="deg"> Vice-Chairperson</span>
 										<span class="deg">NISP SPIT</span>
 									</div>
 								</div>
@@ -194,10 +204,13 @@
 									<!-- Team Member -->
 									<div class="team-member">
 										<!-- Image -->
-										<img class="img-responsive" src="img\team1.jpg" alt="">
+										<img class="img-responsive" src="img\nisp_core_imgs\Uthkrisht Narayan .png" alt="" width= "300px";
+  height= "300px"
+  >
 										<!-- Name -->
-										<h4>NAME</h4>
-										<span class="deg"> DESIGNATION</span>
+										<h4>Uthkrisht Narayan 
+</h4>
+										<span class="deg">  Vice-Chairperson</span>
 										<span class="deg">NISP SPIT</span>
 									</div>
 								</div>
@@ -207,10 +220,14 @@
 									<!-- Team Member -->
 									<div class="team-member">
 										<!-- Image -->
-										<img class="img-responsive" src="img\team1.jpg" alt="">
+										<img class="img-responsive" src="img\nisp_core_imgs\Awani Khodwe.jpg" alt="" width= "300px";
+  height= "300px"
+  object-fit= "fill">
 										<!-- Name -->
-										<h4>NAME</h4>
-										<span class="deg">DESIGNATION </span>
+										<h4>Awani Khodwe
+</h4>
+										<span class="deg">Head of Events
+ </span>
 										<span class="deg">NISP SPIT</span>
 									</div>
 								</div>
@@ -220,10 +237,14 @@
 									<!-- Team Member -->
 									<div class="team-member">
 										<!-- Image -->
-										<img class="img-responsive" src="img\team1.jpg" alt="">
+										<img class="img-responsive" src="img\nisp_core_imgs\Aditya Agrawal .JPG" alt="" width= "300px";
+  height= "300px"
+  object-fit= "fill">
 										<!-- Name -->
-										<h4>NAME</h4>
-										<span class="deg">DESIGNATION </span>
+										<h4>Aditya Agrawal
+</h4>
+										<span class="deg">Head of PR
+ </span>
 										<span class="deg">NISP SPIT</span>
 									</div>
 								</div>
@@ -231,10 +252,133 @@
 									<!-- Team Member -->
 									<div class="team-member">
 										<!-- Image -->
-										<img class="img-responsive" src="img\team1.jpg" alt="">
+										<img class="img-responsive" src="img\nisp_core_imgs\RonakMatolia.jpg" alt="" width= "300px";
+  height= "300px"
+  object-fit= "cover">
 										<!-- Name -->
-										<h4>NAME</h4>
-										<span class="deg">DESIGNATION </span>
+										<h4>Ronak Matolia
+</h4>
+</div>
+										<span class="deg">Head of PR </span>
+										<span class="deg">NISP SPIT</span>
+									</div>
+									<div class="col-centered col-md-3 col-sm-6">
+									<!-- Team Member -->
+									<div class="team-member">
+										<!-- Image -->
+										<img class="img-responsive" src="img\nisp_core_imgs\Aarya Patil.jpg" alt="" width= "300px";
+  height= "300px"
+  object-fit= "cover">
+										<!-- Name -->
+										<h4>Aarya Patil
+
+</h4></div>
+
+										<span class="deg">Head of Operations </span>
+										<span class="deg">NISP SPIT</span>
+									</div>
+									<div class="col-centered col-md-3 col-sm-6">
+									<!-- Team Member -->
+									<div class="team-member">
+										<!-- Image -->
+										<img class="img-responsive" src="img\nisp_core_imgs\Saanya Kadam.jpg" alt="" width= "300px";
+  height= "300px"
+  object-fit= "cover">
+										<!-- Name -->
+										<h4>Saanya Kadam
+</h4></div>
+										<span class="deg">Head of Finance </span>
+										<span class="deg">NISP SPIT</span>
+									</div>
+									<div class="col-centered col-md-3 col-sm-6">
+									<!-- Team Member -->
+									<div class="team-member">
+										<!-- Image -->
+										<img class="img-responsive" src="img\team1.jpg" alt="" width= "300px";
+  height= "300px"
+  object-fit= "cover">
+										<!-- Name -->
+										<h4>Neha Adhikari
+</h4></div>
+										<span class="deg">Head of Creatives </span>
+										<span class="deg">NISP SPIT</span>
+									</div>
+									<div class="col-centered col-md-3 col-sm-6">
+									<!-- Team Member -->
+									<div class="team-member">
+										<!-- Image -->
+										<img class="img-responsive" src="img\nisp_core_imgs\Amey Agarwal.jpg" alt="" width= "300px";
+  height= "300px"
+  object-fit= "cover">
+										<!-- Name -->
+										<h4>Amey Agarwal
+</h4></div>
+										<span class="deg">Technical Head</span>
+										<span class="deg">NISP SPIT</span>
+									</div>
+									<div class="col-centered col-md-3 col-sm-6">
+									<!-- Team Member -->
+									<div class="team-member">
+										<!-- Image -->
+										<img class="img-responsive" src="img\nisp_core_imgs\Mahesh Patil.jpeg" alt="" width= "300px";
+  height= "300px"
+  object-fit= "cover">
+										<!-- Name -->
+										<h4>Mahesh Patil
+</h4></div>
+										<span class="deg">Technical Head</span>
+										<span class="deg">NISP SPIT</span>
+									</div>
+									<div class="col-centered col-md-3 col-sm-6">
+									<!-- Team Member -->
+									<div class="team-member">
+										<!-- Image -->
+										<img class="img-responsive" src="img\nisp_core_imgs\KRIS DCOSTA.JPG" alt="" width= "300px";
+  height= "300px"
+  object-fit= "cover">
+										<!-- Name -->
+										<h4>Kris D'costa
+</h4></div>
+										<span class="deg">Head of Subcom </span>
+										<span class="deg">NISP SPIT</span>
+									</div>
+									<div class="col-centered col-md-3 col-sm-6">
+									<!-- Team Member -->
+									<div class="team-member">
+										<!-- Image -->
+										<img class="img-responsive" src="img\nisp_core_imgs\Devam Gosalia.jpg" alt="" width= "300px";
+  height= "300px"
+  object-fit= "cover">
+										<!-- Name -->
+										<h4>Devam Gosalia
+</h4></div>
+										<span class="deg">Head of Subcom </span>
+										<span class="deg">NISP SPIT</span>
+									</div>
+									<div class="col-centered col-md-3 col-sm-6">
+									<!-- Team Member -->
+									<div class="team-member">
+										<!-- Image -->
+										<img class="img-responsive" src="img\team1.jpg" alt="" width= "300px";
+  height= "300px"
+  object-fit= "cover">
+										<!-- Name -->
+										<h4>Ronak Matolia
+</h4></div>
+										<span class="deg">Head of PR </span>
+										<span class="deg">NISP SPIT</span>
+									</div>
+									<div class="col-centered col-md-3 col-sm-6">
+									<!-- Team Member -->
+									<div class="team-member">
+										<!-- Image -->
+										<img class="img-responsive" src="img\team1.jpg" alt="" width= "300px";
+  height= "300px"
+  object-fit= "cover">
+										<!-- Name -->
+										<h4>Ronak Matolia
+</h4></div>
+										<span class="deg">Head of PR </span>
 										<span class="deg">NISP SPIT</span>
 									</div>
 								</div>
